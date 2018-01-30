@@ -1226,6 +1226,10 @@
 			}
 
 
-	.devicon-rails-plain-wordmark colored {
+	.devicon-rails-plain-wordmark .colored {
   max-width: 10px;
 }
+
+ .devicon-javascript-plain .colored {
+ 	max-width: 10px;
+ }
