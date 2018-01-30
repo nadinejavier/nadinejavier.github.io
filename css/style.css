@@ -1224,3 +1224,8 @@
 			body.is-touch .poptrox-popup .closer {
 				opacity: 1.0 !important;
 			}
+
+
+	.devicon-git-plain {
+  max-width: 1em;
+}
